@@ -29,13 +29,9 @@ venv.bak/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (large raw datasets - do not commit)
-data/raw/*.csv
-data/raw/*.xlsx
-data/raw/*.json
-data/raw/*.parquet
-data/processed/*.csv
-data/processed/*.xlsx
+# Data files
+# (Uncomment below if datasets exceed GitHub 100MB file limit)
+# *.parquet
 
 # Trained model binaries (large files)
 models/*.pkl

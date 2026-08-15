@@ -33,16 +33,10 @@ venv.bak/
 # (Uncomment below if datasets exceed GitHub 100MB file limit)
 # *.parquet
 
-# Trained model binaries (large files)
-models/*.pkl
-models/*.h5
-models/*.joblib
+# Trained model binaries (large files > 100MB)
+# models/*.h5
 
 # Reports / Output
-reports/evaluation_results.csv
-reports/figures/*.png
-reports/figures/*.jpg
-reports/figures/*.svg
 
 # IDE / Editor
 .vscode/

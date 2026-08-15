@@ -24,7 +24,8 @@
 - [Getting Started](#-getting-started)
 - [Notebooks Pipeline Execution](#-notebooks-pipeline-execution)
 - [Technology Stack](#-technology-stack)
-- [License & Author](#-license--author)
+- [Project Team](#-project-team)
+- [License](#-license)
 
 ---
 
@@ -226,14 +227,18 @@ To reproduce all experiments from scratch, run the notebooks in the following or
 
 ---
 
-## 📄 License
+## 👥 Project Team
 
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details.
+| Student ID | Contributor | GitHub Profile | Primary Responsibility |
+|:---:|:---|:---:|:---|
+| **CIT-23-02-0021** | Nilupul Thisaranga | [@N3Edirisinghe](https://github.com/N3Edirisinghe) | Model Evaluation & Selection |
+| **CIT-23-02-0025** | Siluna Nusal | [@GitGuru29](https://github.com/GitGuru29) | Explainable AI (XAI) & Prototype |
+| **CIT-23-02-0042** | Dulani Madubashini | [@cobweb-sudo](https://github.com/cobweb-sudo) | Exploratory Data Analysis (EDA) |
+| **CIT-23-02-0127** | Kaveesha Dilshan | [@Kaveesha23dil](https://github.com/Kaveesha23dil) | Data Preprocessing & Feature Engineering |
+| **CIT-23-02-0359** | Zumra Hassan | [@Zumrahassan222](https://github.com/Zumrahassan222) | Model Development & Tuning |
 
 ---
 
-## 👤 Author
+## 📄 License
 
-**N3Edirisinghe**  
-*CCS3440 Artificial Intelligence Coursework*  
-SmartCare Hospital AI Risk Classification Project
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details.

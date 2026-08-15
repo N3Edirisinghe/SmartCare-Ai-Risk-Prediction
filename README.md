@@ -22,6 +22,7 @@ SmartCare-Ai-Risk-Prediction/
 │
 ├── notebooks/
 │   ├── 01_preprocessing_feature_engineering.ipynb  # Tasks 03 & 04
+│   ├── 02_exploratory_data_analysis.ipynb          # Task 02 - EDA
 │   ├── 03_model_development.ipynb                  # Task 05
 │   ├── 04_model_evaluation.ipynb                   # Task 06
 │   ├── 05_explainable_ai_and_ethics.ipynb          # Tasks 07 & 08
@@ -69,6 +70,7 @@ streamlit run app/app.py
 | Notebook | Description |
 |---|---|
 | `01_preprocessing_feature_engineering.ipynb` | Data cleaning, preprocessing, and feature engineering (Tasks 03 & 04) |
+| `02_exploratory_data_analysis.ipynb` | Exploratory Data Analysis (EDA) with visualizations & statistical analysis (Task 02) |
 | `03_model_development.ipynb` | Training ML models: Logistic Regression, Random Forest, XGBoost, Decision Tree (Task 05) |
 | `04_model_evaluation.ipynb` | Model evaluation using ROC-AUC, confusion matrix, classification report (Task 06) |
 | `05_explainable_ai_and_ethics.ipynb` | SHAP explainability and AI ethics analysis (Tasks 07 & 08) |
